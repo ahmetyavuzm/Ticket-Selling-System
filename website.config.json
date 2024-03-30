@@ -1,0 +1,13 @@
+{
+    "en":{
+        "title": " Ticket Selling Application",
+        "description": " An application for ticket sales and tracking.",
+        "longDescription": " An application where ticket sales and tracking can be done, where tickets can be viewed where they are taken, and if necessary, tickets can be canceled. With this application, I understood the establishment of algorithms and input-output operations better."
+    },
+    "tr":{
+        "title": "Bilet Satış Uygulaması",
+        "description": "Bilet satışı ve takibi yapılan bir uygulama.",
+        "longDescription": "Bilet satışı ve takibinin yapılabildiği, biletlerin nerelerden alındığının görüntülenebildiği, gerekirse bilitlerin iptal edilebildiği bir uygulama. Bu uygulama ile algoritma kurma ve girdi çıktı işlemlerini daha iyi anladım."
+    },
+    "tags":["consoleApp","python"]
+}
